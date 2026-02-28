@@ -1,2 +1,27 @@
-# cp-violation
-Investigating kinematic dependence of CP asymmetry and baryogenesis conditions via experimental HEP data analysis.
+# Charge-Parity Violation Study
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Physics: LHCb](https://img.shields.io/badge/Physics-LHCb_Open_Data-blue)](https://opendata.cern.ch)
+
+## Overview
+This repository documents a personal research project investigating **Charge-Parity (CP) Violation**. The goal is to bridge the gap between theoretical Sakharov conditions for baryogenesis and experimental measurements using the LHCb detector framework.
+
+The project covers:
+* **Theory:** CKM matrix complex phases and meson mixing.
+* **Software:** Data processing with C++ and CERN ROOT.
+* **Analysis:** Statistical fitting and Machine Learning (XGBoost) for signal & background separation.
+
+## Repository Structure
+* `/cpp/`: C++ source files for histogramming and basic ROOT macros.
+* `/notebooks/`: Jupyter notebooks for Python-based analysis (uproot, pandas, scikit-learn).
+* `/paper/`: LaTeX source files and figures for the final report.
+* `/data/`: (Optional) Small metadata files or links to LHCb Open Data samples.
+
+## Installation & Setup
+To run the analysis locally, you need the CERN ROOT framework and a Python 3 environment.
+
+### Prerequisites
+1. **ROOT:** [Installation Guide](https://root.cern/install/)
+2. **Python Stack:**
+   ```bash
+   pip install uproot awkward pandas matplotlib scikit-learn xgboost shap
