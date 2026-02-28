@@ -17,6 +17,11 @@ The project covers:
 * `/py/`: Python files for data analysis (uproot, pandas, scikit-learn).
 * `/paper/`: LaTeX source files and figures for the final report.
 
+
+## Theory Overview
+Still in progress...
+
+
 ## Installation & Setup
 To run the analysis locally, you need the CERN ROOT framework and a Python 3 environment.
 
