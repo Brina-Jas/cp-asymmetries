@@ -13,8 +13,8 @@ The project covers:
 
 ## Repository Structure
 * `/theory/`: Theoretical framework and research into HEP.
-* `/cpp/`: C++ source files for histogramming and basic ROOT macros.
-* `/notebooks/`: Jupyter notebooks for Python-based analysis (uproot, pandas, scikit-learn).
+* `/cpp/`: C++ source files for histogramming and ROOT macros.
+* `/py/`: Python files for data analysis (uproot, pandas, scikit-learn).
 * `/paper/`: LaTeX source files and figures for the final report.
 
 ## Installation & Setup
