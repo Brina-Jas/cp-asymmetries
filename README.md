@@ -4,7 +4,7 @@
 [![Physics: LHCb](https://img.shields.io/badge/Physics-LHCb_Open_Data-blue)](https://opendata.cern.ch)
 
 ## Overview
-This repository documents a personal research project investigating charge-parity (CP) asymmetries in particle decays'. The goal is to bridge the gap between theoretical Sakharov conditions for baryogenesis and experimental measurements using the LHCb detector framework.
+This repository documents a personal research project investigating charge-parity (CP) asymmetries in particle decays. The goal is to bridge the gap between theoretical Sakharov conditions for baryogenesis and experimental measurements using the LHCb detector framework.
 
 The project covers:
 * **Theory:** CKM matrix complex phases and meson mixing.
