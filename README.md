@@ -1,4 +1,4 @@
-# Charge-Parity Violation Study
+# Charge-Parity Asymmetry Study
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Physics: LHCb](https://img.shields.io/badge/Physics-LHCb_Open_Data-blue)](https://opendata.cern.ch)
